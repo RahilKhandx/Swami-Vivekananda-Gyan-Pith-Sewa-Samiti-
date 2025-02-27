@@ -18,7 +18,7 @@
                                     <h4 class="footer-widget__title">Quick links</h4>
                                     <ul class="footer-widget__links-list list-unstyled">
                                         <li><a href="about.php">About Us</a></li>
-                                        <li><a href="workingarea.php">Working Areas</a></li>
+                                        <li><a href="whatwedo.php">What We Do</a></li>
                                         <li><a href="contact.php">Contact Us</a></li>
                                     </ul>
                                 </div>
@@ -91,7 +91,7 @@
                 </li>
                 <li>
                     <i class="fas fa-phone"></i>
-                    <a href="tel:666-888-0000">666 888 0000</a>
+                    <a href="tel:79032-75885">7903275885</a>
                 </li>
             </ul><!-- /.mobile-nav__contact -->
             <div class="mobile-nav__top">

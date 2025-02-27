@@ -190,8 +190,8 @@
                             <p class="services-one__text">We believe in the power of education to transform lives. Through our initiatives, we provide quality learning opportunities, scholarships, and resources to empower underprivileged students for a brighter future.
                             </p>
                             <div class="services-one__shape"></div>
-                            <a href="#" class="services-one__read-more">Read More<span
-                                    class="icon-right-arrow"></span></a>
+                            <!-- <a href="#" class="services-one__read-more">Read More<span
+                                    class="icon-right-arrow"></span></a> -->
                         </div>
                     </li>
                     <!--Services One Single End-->
@@ -205,8 +205,8 @@
                             <p class="services-one__text">Committed to building a compassionate society, we support vulnerable communities with essential resources, awareness programs, and initiatives that promote equality, dignity, and well-being.
                             </p>
                             <div class="services-one__shape"></div>
-                            <a href="#" class="services-one__read-more">Read More<span
-                                    class="icon-right-arrow"></span></a>
+                            <!-- <a href="#" class="services-one__read-more">Read More<span
+                                    class="icon-right-arrow"></span></a> -->
                         </div>
                     </li>
                     <!--Services One Single End-->
@@ -216,12 +216,12 @@
                             <div class="services-one__icon">
                                 <span class="icon-healthcare"></span>
                             </div>
-                            <h3 class="services-one__title"><a href="donations-details.html">Helthcare</a></h3>
+                            <h3 class="services-one__title"><a href="donations-details.html">Healthcare</a></h3>
                             <p class="services-one__text">Ensuring better health for all, we organize medical camps, vaccination drives, and health awareness programs to provide accessible and affordable healthcare to those in need.
                             </p>
                             <div class="services-one__shape"></div>
-                            <a href="#" class="services-one__read-more">Read More<span
-                                    class="icon-right-arrow"></span></a>
+                            <!-- <a href="#" class="services-one__read-more">Read More<span
+                                    class="icon-right-arrow"></span></a> -->
                         </div>
                     </li>
                     <!--Services One Single End-->
@@ -235,8 +235,8 @@
                             <p class="services-one__text">We empower individuals with skill development, vocational training, and self-employment opportunities, enabling them to achieve financial independence and improve their quality of life.
                             </p>
                             <div class="services-one__shape"></div>
-                            <a href="#" class="services-one__read-more">Read More<span
-                                    class="icon-right-arrow"></span></a>
+                            <!-- <a href="#" class="services-one__read-more">Read More<span
+                                    class="icon-right-arrow"></span></a> -->
                         </div>
                     </li>
                     <!--Services One Single End-->
@@ -266,8 +266,8 @@
                             </div>
                             <div class="content">
                                 <h3>Call Me</h3>
-                                <p><a href="tel:6668880000">
-                                        +666 888 0000</a></p>
+                                <p><a href="tel:79032-75885">
+                                7903275885</a></p>
                             </div>
                         </li>
                         <li>
@@ -285,7 +285,7 @@
                             </div>
                             <div class="content">
                                 <h3>Address</h3>
-                                <p>Pundag, Ranchi (India)</p>
+                                <p>3rd floor shreeji enclave, Gayatri Nagar, Pundag, Ranchi Jharkhand 834002</p>
                             </div>
                         </li>
                     </ul>
