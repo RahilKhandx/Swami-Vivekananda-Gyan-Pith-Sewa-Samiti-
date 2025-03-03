@@ -10,7 +10,8 @@
     <link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicons/favicon-32x32.png" />
     <link rel="icon" type="image/png" sizes="16x16" href="assets/images/favicons/favicon-16x16.png" />
     <link rel="manifest" href="assets/images/favicons/site.webmanifest" />
-    <meta name="description" content="Swami Vivekananda Gyan Pith Sewa Samiti (SVGPS) is a not-for-profit organization dedicated to health, education, livelihood, and social welfare. Join us in empowering communities and creating a better future." />
+    <meta name="description"
+        content="Swami Vivekananda Gyan Pith Sewa Samiti (SVGPS) is a not-for-profit organization dedicated to health, education, livelihood, and social welfare. Join us in empowering communities and creating a better future." />
 
     <!-- fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -126,9 +127,10 @@
                     <div class="main-menu__wrapper-inner">
                         <div class="main-menu__left">
                             <div class="main-menu__logo">
-                                <a href="index"><img src="assets/images/resources/svgps_logo.png" alt="" width="180px"></a>
+                                <a href="index"><img src="assets/images/resources/svgps_logo.png" alt=""
+                                        width="180px"></a>
                             </div>
-                            <div class="main-menu__call">
+                            <!-- <div class="main-menu__call">
                                 <div class="main-menu__call-icon">
                                     <i class="icon-call"></i>
                                 </div>
@@ -136,7 +138,7 @@
                                     <p class="main-menu__call-sub-title">Registered Under </p>
                                     <h5 class="main-menu__call-number">12A & 80G</h5>
                                 </div>
-                            </div>
+                            </div> -->
                         </div>
                         <div class="main-menu__main-menu-box">
                             <a href="#" class="mobile-nav__toggler"><i class="fa fa-bars"></i></a>
@@ -144,11 +146,31 @@
                                 <li>
                                     <a href="index.php">Home</a>
                                 </li>
-                                <li class="scrollToLink">
-                                    <a href="about.php">About</a>
+                                <li class="scrollToLink dropdown">
+                                    <a href="#">Who we are ?</a>
+                                    <ul class="dropdown-menu">
+                                        <li><a href="about.php">About Us</a></li>
+                                        <li><a href="value.php">Our Value</a></li>
+                                        <!-- <li><a href="about-mission.php">Mission</a></li> -->
+                                    </ul>
+                                    <!-- <a href="about.php">Who we are ?</a> -->
                                 </li>
                                 <li class="scrollToLink">
-                                    <a href="workingarea.php">Working Areas</a>
+                                    <a href="#">What We Do</a>
+                                    <ul>
+                                        <li><a href="currentproject.php">Current Project</a></li>
+                                        <li><a href="accomplishment.php">Accomplishment Project</a></li>
+                                        <!-- <li><a href="about-mission.php">Mission</a></li> -->
+                                    </ul>
+                                </li>
+                                <li class="scrollToLink dropdown">
+                                    <a href="#">Get Involved</a>
+                                    <ul class="dropdown-menu">
+                                        <li><a href="tenders.php">Tenders</a></li>
+                                        <li><a href="career.php">Career</a></li>
+                                        <!-- <li><a href="about-mission.php">Mission</a></li> -->
+                                    </ul>
+                                    <!-- <a href="about.php">Who we are ?</a> -->
                                 </li>
                                 <li class="scrollToLink">
                                     <a href="contact.php">Contact</a>

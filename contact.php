@@ -9,7 +9,7 @@
             <div class="container">
                 <div class="section-title text-center sec-title-animation animation-style1">
                     <h6 class="section-title__tagline"><span class="section-title__tagline-border"></span>
-                        OUR CONTACT
+                        OUR CONTACbnbnbT
                     </h6>
                     <h3 class="section-title__title title-animation">Join With Us To As<br>
                         Contact Now!</h3>
