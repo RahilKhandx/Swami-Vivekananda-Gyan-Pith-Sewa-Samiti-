@@ -4,7 +4,7 @@
 .brand-one {
     position: relative;
     display: block;
-    padding: 60px 0 51px;
+    padding: 246px 0 51px;
     border-top: 1px solid var(--carity-bdr-color);
     z-index: 1;
 }
@@ -31,11 +31,11 @@
     position: relative;
     -webkit-transition: 500ms;
     transition: 500ms;
-    opacity: 0.30;
+    /* opacity: 0.30; */
 }
 
 .brand-one__single:hover .brand-one__img img {
-    opacity: 0.50;
+    /* opacity: 0.50; */
 }
 
 

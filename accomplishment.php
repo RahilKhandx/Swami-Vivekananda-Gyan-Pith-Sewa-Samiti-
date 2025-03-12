@@ -215,7 +215,7 @@
         <!-- Accomplished Projects -->
         <div class="mt-5">
             <h3 class="text-center fw-bold mb-4">Accomplished Projects</h3>
-            <div class="row g-4">
+            <div class="row g-4 mb-4">
                 <!-- Forestry and Plantation -->
                 <div class="col-md-4">
                     <div class="card border-0 shadow-sm h-100">
@@ -247,7 +247,7 @@
         </div>
 
         <!-- Financial Summary -->
-        <div class="mt-5">
+        <!-- <div class="mt-5">
             <h3 class="text-center fw-bold mb-4">Financial Turnover</h3>
             <div class="table-responsive">
                 <table class="table table-bordered table-hover text-center">
@@ -273,7 +273,7 @@
                     </tbody>
                 </table>
             </div>
-        </div>
+        </div> -->
     </div>
 </section>
 

@@ -173,6 +173,9 @@
                                     <!-- <a href="about.php">Who we are ?</a> -->
                                 </li>
                                 <li class="scrollToLink">
+                                    <a href="gallery.php">Gallery</a>
+                                </li>
+                                <li class="scrollToLink">
                                     <a href="contact.php">Contact</a>
                                 </li>
                             </ul>

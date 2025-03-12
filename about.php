@@ -91,7 +91,7 @@
                             </div>
                             <div class="content">
                                 <h3>Need help?</h3>
-                                <p><a href="tel:3195550115">+666 888 0000</a></p>
+                                <p><a href="tel:7903275885">7903275885</a></p>
                             </div>
                         </div>
                     </div>
@@ -101,14 +101,14 @@
                 <div class="about-one__right">
                     <div class="about-one__img-box">
                         <div class="about-one__img">
-                            <img src="assets/images/swami.jpg" alt="">
+                            <img src="assets/images/swamiv.jpeg" alt="">
                         </div>
                         <div class="about-one__img-box-2">
                             <div class="about-one__shape-1 float-bob-x">
                                 <img src="assets/images/shapes/about-one-shape-1.png" alt="">
                             </div>
                             <div class="about-one__img-2">
-                                <img src="assets/images/org.jpg" alt="">
+                                <img src="assets/images/swamivi.jpeg" alt="">
                             </div>
                         </div>
                         <div class="about-one__shape-2"></div>

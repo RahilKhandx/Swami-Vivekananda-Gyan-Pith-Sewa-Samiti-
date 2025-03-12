@@ -9,7 +9,7 @@
             <div class="container">
                 <div class="section-title text-center sec-title-animation animation-style1">
                     <h6 class="section-title__tagline"><span class="section-title__tagline-border"></span>
-                        OUR CONTACbnbnbT
+                        OUR CONTACT
                     </h6>
                     <h3 class="section-title__title title-animation">Join With Us To As<br>
                         Contact Now!</h3>
@@ -83,7 +83,7 @@
                                     </div>
                                     <div class="content">
                                         <h4>Address</h4>
-                                        <p>Pundag, Ranchi (India) </p>
+                                        <p>3rd floor shreeji enclave, Gayatri Nagar, Pundag, Ranchi Jharkhand 834002</p>
                                     </div>
                                 </li>
                                 <li>
@@ -101,7 +101,7 @@
                                     </div>
                                     <div class="content">
                                         <h4>Phone number</h4>
-                                        <p><a href="tel:+666 888 0000">+666 888 0000</a></p>
+                                        <p><a href="tel:7903275885">7903275885</a></p>
                                     </div>
                                 </li>
                             </ul>
